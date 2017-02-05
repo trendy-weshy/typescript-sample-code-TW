@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "sourceMap":  true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "target": "ES5",
+        "outFile": "bank.js",
+        "pretty": true
+    }
+}
