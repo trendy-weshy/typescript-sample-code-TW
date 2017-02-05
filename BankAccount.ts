@@ -134,7 +134,7 @@ johnSavingsAccount.getBal();
 */
 
 // CURRENT ACCCOUNT
-let emmaCurrentAccount = new CurrentAccount('Emma Watson', 10, 0910);
+let emmaCurrentAccount = new CurrentAccount('Emma Watson', 10, 8910);
 /**
  * all emma's current account activities
 */
